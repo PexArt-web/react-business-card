@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+img{
+  height: 70vh;
+}
+.card-wrapper{
+  width:21rem;
+  margin: auto;
+  background-color:#1A1B21 !important;
+}
+.info-dpt, .gitLink{
+  color: #fff;
+}
+.dev{
+  color: #F3BF99;
+}
+.interest--box p, .about--box p{
+  font-size: 15px;
+}
+.icons .bi{
+  font-size: 25px;
+}
+.icons{
+  height: 8vh;
+}
