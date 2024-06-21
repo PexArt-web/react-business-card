@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PexArt-web/react-business-card.git/static/css/main.70c5ea98.css",
+    "main.js": "/PexArt-web/react-business-card.git/static/js/main.f400442c.js",
+    "static/media/bootstrap-icons.woff?": "/PexArt-web/react-business-card.git/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/PexArt-web/react-business-card.git/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/temporary-business-card-image.jpg": "/PexArt-web/react-business-card.git/static/media/temporary-business-card-image.9bca59bdbb86f203f960.jpg",
+    "index.html": "/PexArt-web/react-business-card.git/index.html",
+    "main.70c5ea98.css.map": "/PexArt-web/react-business-card.git/static/css/main.70c5ea98.css.map",
+    "main.f400442c.js.map": "/PexArt-web/react-business-card.git/static/js/main.f400442c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70c5ea98.css",
+    "static/js/main.f400442c.js"
+  ]
+}
